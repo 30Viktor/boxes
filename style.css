@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+.box{
+    background-color: blueviolet;
+    color: aquamarine;
+    width: 200px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid rgb(25, 158, 199) 5px;
+    border-radius: 10px;
+}
+.box-small{
+background-color: blue;
+color:aquamarine;
+width: 100px;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+border: solid rgb(4, 190, 190) 5px;
+    border-radius: 10px;
+}
